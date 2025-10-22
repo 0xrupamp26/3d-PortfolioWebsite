@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xrupamp26)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xrupamp26)
 
-![Portfolio Preview](./public/assets/seo/og-image.png)
+![Portfolio Preview]()
 
 Welcome to my interactive 3D portfolio website! This project showcases my skills, projects, and experience in an engaging and visually appealing way.
 
